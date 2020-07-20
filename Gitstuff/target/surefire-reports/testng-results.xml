@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="199" started-at="2020-06-30T06:38:29 IST" finished-at="2020-06-30T06:38:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="199" started-at="2020-06-30T06:38:29 IST" finished-at="2020-06-30T06:38:29 IST">
+      <class name="rahulshettyacademy.Mavenjava.RestApiTest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:rahulshettyacademy.Mavenjava.RestApiTest@2b552920]" name="PostJira" duration-ms="25" started-at="2020-06-30T06:38:29 IST" finished-at="2020-06-30T06:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="deletetwitter()[pri:0, instance:rahulshettyacademy.Mavenjava.RestApiTest@2b552920]" name="deletetwitter" duration-ms="0" started-at="2020-06-30T06:38:29 IST" finished-at="2020-06-30T06:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+      </class> <!-- rahulshettyacademy.Mavenjava.RestApiTest -->
+      <class name="rahulshettyacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:rahulshettyacademy.Mavenjava.SeleniumTest@2758fe70]" name="BrowserAutomation" duration-ms="1" started-at="2020-06-30T06:38:29 IST" finished-at="2020-06-30T06:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:rahulshettyacademy.Mavenjava.SeleniumTest@2758fe70]" name="elementUI" duration-ms="1" started-at="2020-06-30T06:38:29 IST" finished-at="2020-06-30T06:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- rahulshettyacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
